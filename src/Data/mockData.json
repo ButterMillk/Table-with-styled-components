@@ -1,0 +1,109 @@
+{
+    "arrayDescription":
+        [
+            {
+                "id": "id",
+                "name": "id",
+                "width": "50",
+                "hideOnDesktop": false,
+                "hideOnTablet": false,
+                "hideOnPhone": true
+            },
+            {
+                "id": "name",
+                "name": "Imię",
+                "width": "150",
+                "hideOnDesktop": false,
+                "hideOnTablet": false,
+                "hideOnPhone": false
+            },
+            {
+                "id": "lastName",
+                "name": "Nazwisko",
+                "width": "150",
+                "hideOnDesktop": false,
+                "hideOnTablet": false,
+                "hideOnPhone": false
+            },
+            {
+                "id": "age",
+                "name": "Wiek",
+                "width": "50",
+                "hideOnDesktop": false,
+                "hideOnTablet": false,
+                "hideOnPhone": true
+            },
+            {
+                "id": "country",
+                "name": "Narodowość",
+                "width": "100",
+                "hideOnDesktop": false,
+                "hideOnTablet": true,
+                "hideOnPhone": true
+            },
+            {
+                "id": "description",
+                "name": "Opis",
+                "width": "300",
+                "hideOnDesktop": false,
+                "hideOnTablet": true,
+                "hideOnPhone": true
+            },
+            {
+                "id": "lastColumn",
+                "name": "Ostatnia kolumna",
+                "width": "150",
+                "hideOnDesktop": false,
+                "hideOnTablet": false,
+                "hideOnPhone": false
+            }
+        ],
+    "customerData":
+        [
+            {
+                "id": "0",
+                "name": "Jan",
+                "lastName": "Dzbanuszek",
+                "age": "32",
+                "country": "Polska",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+                "lastColumn": "Ostatnia kolumna, która ma zawsze pozostawać w tym samym miejscu."
+            },
+            {
+                "id": "1",
+                "name": "Jarosław",
+                "lastName": "Kolwalski",
+                "age": "29",
+                "country": "Polska",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. ",
+                "lastColumn": "Ostatnia kolumna, która ma zawsze pozostawać w tym samym miejscu."
+            },
+            {
+                "id": "2",
+                "name": "Karolina",
+                "lastName": "Kolwalska",
+                "age": "32",
+                "country": "Niemcy",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. ",
+                "lastColumn": "Ostatnia kolumna, która ma zawsze pozostawać w tym samym miejscu."
+            },
+            {
+                "id": "3",
+                "name": "Zuzanna",
+                "lastName": "Kolwalska",
+                "age": "32",
+                "country": "Niemcy",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. ",
+                "lastColumn": "Ostatnia kolumna, która ma zawsze pozostawać w tym samym miejscu."
+            },
+            {
+                "id": "4",
+                "name": "Tadeusz",
+                "lastName": "Nowakowski",
+                "age": "32",
+                "country": "Niemcy",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. ",
+                "lastColumn": "Ostatnia kolumna, która ma zawsze pozostawać w tym samym miejscu."
+            }
+        ]
+}
